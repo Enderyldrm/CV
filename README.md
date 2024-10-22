@@ -1,17 +1,17 @@
 
 <img src="/face.png" alt="Profil Resmi" width="50" height="50">
 
-# Eymen Yıldırım
+# Soner Yıldırım
 
 ## Genel Bilgi
-Eymen Yıldırım 2013 yılında İstanbul'da doğmuştur, teknolojiye ilgisi vardır.
+Eymen Yıldırım 1999 yılında Tokat'da doğmuştur,
 
 ## Eğitim
-1. Gülen Dünya Anaokulu - 2013
-2. Kale Anaokulu Cordella - 2013
-3. Kale Koleji - 1. - 3. sınıf
-4. Atatürk İlkokulu Tuzla - 4. sınıf
-5. Evliya Çelebi Ortaokulu Tuzla - 5. - 6. sınıf
+1. 
+2. 
+3. 
+4. 
+5. 
 
 ## İlgi Alanları
 1. Yazılım
